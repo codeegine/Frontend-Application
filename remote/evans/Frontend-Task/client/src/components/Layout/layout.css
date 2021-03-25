@@ -1,0 +1,24 @@
+.layout-con {
+  /* background-color: salmon; */
+  flex-direction: column;
+  display: flex;
+  height: 100vh;
+  max-height: 100vh;
+}
+
+.layout-body {
+  /* background-color: yellow; */
+  display: flex;
+  height: 100%;
+  overflow-y: hidden;
+}
+
+.main {
+  /* background-color: green; */
+  width: 80%;
+  overflow-y: auto;
+}
+
+.main::-webkit-scrollbar {
+  display: none;
+}

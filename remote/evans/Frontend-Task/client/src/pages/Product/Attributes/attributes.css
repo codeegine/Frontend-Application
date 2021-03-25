@@ -1,0 +1,73 @@
+.attr-con {
+  height: 500px;
+  /* background: blanchedalmond; */
+}
+
+.categories {
+  margin-bottom: 1em;
+}
+
+.category {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.b-m {
+  align-items: center;
+  margin-top: 10px;
+}
+
+.cat {
+  margin-right: 10px;
+}
+
+.cat-p {
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.cat-input {
+  padding: 5px 10px;
+  width: 200px;
+  margin-top: 5px;
+}
+
+.mod {
+  margin-right: 10px;
+}
+
+.mod-p {
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.mod-input {
+  padding: 5px 10px;
+  width: 430px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.business-models {
+  margin-bottom: 1em;
+}
+
+.m-name {
+  margin-top: 5px;
+}
+
+.trl {
+  margin-bottom: 5em;
+}
+
+.trl-p {
+  font-weight: bold;
+}
+
+.t-r-l {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px 10px;
+  width: 80%;
+}
